@@ -35,7 +35,6 @@ O retorno é um JSON com os dados de carros e de motores que está vinculado pel
   "observacao":null,
 }
 ```
-
 #### Tarefa 2
 Criar uma API que será consultado utilizando method POST e que retorne em formato json os dados das atividades ordenado por hora.
 
