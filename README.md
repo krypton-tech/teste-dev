@@ -41,4 +41,4 @@ Criar uma API que será consultado utilizando method POST e que retorne em forma
 
 O retorno deverá estar paginada e exibir até 5 registros por página e permitir ao desenvolvedor que for consumir a sua API escolher qual página ele irá exibir.
 
-Link das atividades: https://github.com/krypton-tech/test-dev-2021/blob/main/atividades.json
+Link das atividades: https://github.com/krypton-tech/teste-dev/blob/main/atividades.json
