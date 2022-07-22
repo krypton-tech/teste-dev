@@ -6,8 +6,6 @@
 - Você pode fazer utilizando ou não algum framework, fica a sua escolha.
 - Não há necessidade de utilizar banco de dados.
 - Para fazer a entrega, enviar o link do seu repositório para o email test-dev@kryptontech.com.br
-> IMPORTANTE: Tanto para a tarefa 1, quanto para a tarefa 2 o seu projeto deverá estar funcionando.
-
 
 
 #### Tarefa 1
